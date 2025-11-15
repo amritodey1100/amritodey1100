@@ -49,7 +49,7 @@ I’m chasing the dream of building billion-dollar products from a small room wi
 ---
 
 ## 🌍 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AmritoDey)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amritodey11)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amrito_dey0)
 
 ---
@@ -75,8 +75,28 @@ I’m chasing the dream of building billion-dollar products from a small room wi
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=amritodey1100&icon=0&color=6" />
 </p>
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritodey1100&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
-## Hi there 👋
+<!-- Alternative options you can try: -->
+
+<!-- Option 2: Different color -->
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritodey1100&color=brightgreen&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p> -->
+
+<!-- Option 3: Different style -->
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritodey1100&color=blue&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+</p> -->
+
+<!-- Option 4: Minimal style -->
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amritodey1100&color=0e75b6&style=plastic" alt="Profile Views" />
+</p> -->
+
 
 <!--
 **amritodey1100/amritodey1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
